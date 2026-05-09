@@ -2,11 +2,20 @@
   "latestVersion": "1.0.0",
   "maintenance": {
     "active": false,
-    "message": "Le launcher est actuellement en maintenance pour la nouvelle saison."
+    "message": "Celestia est actuellement en maintenance. Nous revenons très vite !"
   },
   "spotlight": [
-    { "title": "Saison 99", "desc": "Skins exclusifs et nouveaux défis." },
-    { "title": "Event Battle Rush", "desc": "Double XP pendant deux semaines !" },
-    { "title": "Pass VIP", "desc": "Accès anticipé aux nouvelles fonctionnalités." }
+    {
+      "title": "Bienvenue sur Celestia",
+      "desc": "Le launcher est désormais opérationnel. Profitez de vos builds préférées avec une injection stable."
+    },
+    {
+      "title": "Saison Spotlight",
+      "desc": "Découvrez les nouveautés de la saison directement en jeu après l'injection de Starfall."
+    },
+    {
+      "title": "Support Discord",
+      "desc": "Besoin d'aide ? Rejoignez notre communauté pour obtenir du support ou partager vos retours."
+    }
   ]
 }
