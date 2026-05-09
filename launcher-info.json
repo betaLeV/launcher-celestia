@@ -1,1 +1,12 @@
-
+{
+  "latestVersion": "1.0.0",
+  "maintenance": {
+    "active": false,
+    "message": "Le launcher est actuellement en maintenance pour la nouvelle saison."
+  },
+  "spotlight": [
+    { "title": "Saison 99", "desc": "Skins exclusifs et nouveaux défis." },
+    { "title": "Event Battle Rush", "desc": "Double XP pendant deux semaines !" },
+    { "title": "Pass VIP", "desc": "Accès anticipé aux nouvelles fonctionnalités." }
+  ]
+}
