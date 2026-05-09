@@ -6,16 +6,8 @@
   },
   "spotlight": [
     {
-      "title": "Bienvenue sur Celestia",
-      "desc": "Le launcher est désormais opérationnel. Profitez de vos builds préférées avec une injection stable."
-    },
-    {
-      "title": "Saison Spotlight",
-      "desc": "Découvrez les nouveautés de la saison directement en jeu après l'injection de Starfall."
-    },
-    {
-      "title": "Support Discord",
-      "desc": "Besoin d'aide ? Rejoignez notre communauté pour obtenir du support ou partager vos retours."
+      "title": "welcome on Celestia",
+      "desc": "Celestia is now available on PC, play it, enjoy it, but above all, don't cheat!"
     }
   ]
 }
